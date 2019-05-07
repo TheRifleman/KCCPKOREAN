@@ -11,13 +11,13 @@ RULE_OPTION_SRI_START_ELECTION_TOTALIST_NAZIONALISTA_DESC:0 "The Fifth Congress 
 
 AUS_AUSGLEICH:0 "@AUS 1937년의 대타협"
 RULE_OPTION_AUS_AUSGLEICH_RANDOM:0 "무작위화"
-RULE_OPTION_AUS_AUSGLEICH_RANDOM_DESC:0 "The Ausgleich of 1937 is held to try to sort out the diplomatic differences between the two halves of the Empire."
+RULE_OPTION_AUS_AUSGLEICH_RANDOM_DESC:0 "1937년의 대타협은 제국의 두 반쪽에 대한 외교적 견해차이를 정리하기 위해 개최되었습니다."
 RULE_OPTION_AUS_AUSGLEICH_STATUS_QUO:0 "현상 유지"
-RULE_OPTION_AUS_AUSGLEICH_STATUS_QUO_DESC:0 "Karl decides to bide his time and appeases the Hungarians."
+RULE_OPTION_AUS_AUSGLEICH_STATUS_QUO_DESC:0 "카를은 때를 기다리기로 하고 헝가리인들을 달래기로 결심했습니다."
 RULE_OPTION_AUS_AUSGLEICH_FEDERATE_CIVIL_WAR:0 "개혁 - 내전"
-RULE_OPTION_AUS_AUSGLEICH_FEDERATE_CIVIL_WAR_DESC:0 "§YBLESSED§! Karl attempts to federate the Empire to a more democratic government and bring a brighter future for all Austrian peoples; however, the Hungarians do not like this and start a civil war."
+RULE_OPTION_AUS_AUSGLEICH_FEDERATE_CIVIL_WAR_DESC:0 "§YBLESSED§! 카를은 제국을 더 민주적인 정부로 통합시키고 오스트리아인들에게 밝은 미래를 가져오려 하지만, 헝가리인들은 이를 좋아하지 않았고 내전을 일으켰습니다."
 RULE_OPTION_AUS_AUSGLEICH_FEDERATE_SUCCESS:0 "개혁 - 성공"
-RULE_OPTION_AUS_AUSGLEICH_FEDERATE_SUCCESS_DESC:0 "§YBLESSED§! Karl attempts to federate the Empire to a more democratic government and bring a brighter future for all Austrian peoples, and the Hungarians submits after civil unrests from both Slovaks and Transylvanians."
+RULE_OPTION_AUS_AUSGLEICH_FEDERATE_SUCCESS_DESC:0 "§YBLESSED§! 카를은 제국을 더 민주적인 정부로 통합시키고 오스트리아인들에게 밝은 미래를 가져오려 했고, 헝가리인들은 슬로바키아 트란실바니아인들 양쪽과의 분란을 겪고 이를 동의했습니다."
 
 USA_CIVIL_WAR_STRENGTHEN:0 "@USA 제2차 미국 내전의 강화"
 RULE_OPTION_USA_CIVIL_WAR_STRENGTHEN_NO_BUFF:0 "No Buff"
