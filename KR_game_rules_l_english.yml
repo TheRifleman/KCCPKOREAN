@@ -14,15 +14,15 @@ RULE_OPTION_PLC_PRIME_MINISTER_DEMOCRACY_SYNDICALIST_DESC:0 "Mendog decides to l
 RULE_OPTION_PLC_PRIME_MINISTER_DEMOCRACY_DEMOCRACTIC:0 "£KR_game_rule_flag_PLC   Democracy - Democractic Success"
 RULE_OPTION_PLC_PRIME_MINISTER_DEMOCRACY_DEMOCRACTIC_DESC:0 "Mendog decides to let the people vote for the Prime Minister. Democractic parties are elected and Mendog's position as a 'King of the People' is cemented.\n§RRequires:§!\n§MCommonwealth Formed§! in §Y£KR_game_rule_flag_POL  The Great Debate§!"
 
-SRI_NEOSANFEDISTI_TERROR:0 "£KR_game_rule_flag_SRI_syndicalist   Neosanfedisti Terror"
-RULE_OPTION_SRI_NEOSANFEDISTI_TERROR_RANDOM:0 "Randomised"
-RULE_OPTION_SRI_NEOSANFEDISTI_TERROR_RANDOM_DESC:0 "After winning a majority in the Fifth Congress, the Unione Nazionalista decides to enforce state atheism within the republic, and arrests catholics who have been deemed at risk for supporting the Papacy over the government. In response to this, a terrorist organization called Neosanfedisti is formed, and aims to create as much havoc as they can in the name of the oppressed Catholic Church. The neighbours in the south might back this terrorist organization to weaken the republic."
-RULE_OPTION_SRI_NEOSANFEDISTI_TERROR_PEACE:0 "£KR_game_rule_flag_SRI_syndicalist   NeoSanfedisti Acted Alone"
-RULE_OPTION_SRI_NEOSANFEDISTI_TERROR_PEACE_DESC:0 "The Papal States and the Kingdom of Two Sicilies both decide to not directly aid the terrorist organization to prevent further conflicts in the Italian Peninsula.\n§RRequires:§!\n§MUnione Nazionalista Majority§! in §Y£KR_game_rule_flag_SRI_syndicalist   1936 Italian Congress§!"
-RULE_OPTION_SRI_NEOSANFEDISTI_TERROR_WAR_NO_ITA:0 "£KR_game_rule_flag_SRI_syndicalist  £KR_game_rule_flag_SIC £KR_game_rule_flag_PAP   War with Southern Italy"
-RULE_OPTION_SRI_NEOSANFEDISTI_TERROR_WAR_NO_ITA_DESC:0 "The Papal States and the Kingdom of Two Sicilies both decide to back the terrorist organization. Outraged but unsurprised, the Socialisty Republic of Italy declares war on its southern neighbors. The Republic of Italy in the north decides not to intervene.\n§RRequires:§!\n§MUnione Nazionalista Majority§! in §Y£KR_game_rule_flag_SRI_syndicalist   1936 Italian Congress§!"
-RULE_OPTION_SRI_NEOSANFEDISTI_TERROR_WAR_ITA:0 "£KR_game_rule_flag_SRI_syndicalist  £KR_game_rule_flag_SIC £KR_game_rule_flag_PAP £KR_game_rule_flag_ITA   War in the Italian Peninsula"
-RULE_OPTION_SRI_NEOSANFEDISTI_TERROR_WAR_ITA_DESC:0 "The Papal States and the Kingdom of Two Sicilies both decide to back the terrorist organization. Outraged but unsurprised, the Socialist Republic of Italy declares war on its southern neighbors. The Republic of Italy in the north decides to intervene and declares war on the Socialist Republic of Italy.\n§RRequires:§!\n§MUnione Nazionalista Majority§! in §Y£KR_game_rule_flag_SRI_syndicalist   1936 Italian Congress§!"
+SRI_NEOSANFEDISTI_TERROR:0 "£KR_game_rule_flag_SRI_syndicalist   신산페디스티 테러"
+RULE_OPTION_SRI_NEOSANFEDISTI_TERROR_RANDOM:0 "무작위화"
+RULE_OPTION_SRI_NEOSANFEDISTI_TERROR_RANDOM_DESC:0 "5차 평의회에서 과반수 차지 이후, 민족주의 연맹은 공화국 내에 국가 무신론을 시행하도록 결정하며, 정부에 대하며 교황청을 지원할 위험이 있다고 여겨지는 가톨릭 신자를 체포합니다. 이에 대한 대응으로, 산산페디스티라고 불리는 테러리스트 조직이 형성되며, 탄압받은 가톨릭 교회의 이름 하에 혼란을 야기하는 것을 목표로 합니다. 남방의 인접국들은 공화국을 약화시키기 위해 이 테러리스트 조직을 지원할 수도 있습니다."
+RULE_OPTION_SRI_NEOSANFEDISTI_TERROR_PEACE:0 "£KR_game_rule_flag_SRI_syndicalist   신산페디스티가 홀로 행동"
+RULE_OPTION_SRI_NEOSANFEDISTI_TERROR_PEACE_DESC:0 "교황령과 양 시칠리아 왕국 둘 다 이탈리아 반도의 충돌을 확산시키지 않기 위해 이 테러리스트 조직을 직접 지원하지 않습니다.\n§R필요:§!\n§Y￡KR_game_rule_flag_SRI_syndicalist   1936년 이탈리아 평의회§!에서 §M민족주의 연맹의 과반 차지§!
+RULE_OPTION_SRI_NEOSANFEDISTI_TERROR_WAR_NO_ITA:0 "£KR_game_rule_flag_SRI_syndicalist  £KR_game_rule_flag_SIC £KR_game_rule_flag_PAP   남이탈리아와의 전쟁"
+RULE_OPTION_SRI_NEOSANFEDISTI_TERROR_WAR_NO_ITA_DESC:0 "교황령과 양 시칠리아 양국이 테러리스트 조직을 지원합니다. 격노하였지만 당연하였기에, 이탈리아 사회주의 공화국은 남방 인접국에게 전쟁을 선포합니다. 북방의 이탈리아 공화국은 개입하지 않을 것입니다.\n§R필요:§!\n§Y￡KR_game_rule_flag_SRI_syndicalist   1936년 이탈리아 평의회§!에서 §M민족주의 연맹의 과반 차지§!
+RULE_OPTION_SRI_NEOSANFEDISTI_TERROR_WAR_ITA:0 "£KR_game_rule_flag_SRI_syndicalist  £KR_game_rule_flag_SIC £KR_game_rule_flag_PAP £KR_game_rule_flag_ITA   이탈리아 반도 전쟁"
+RULE_OPTION_SRI_NEOSANFEDISTI_TERROR_WAR_ITA_DESC:0 "교황령과 양 시칠리아 양국이 테러리스트 조직을 지원합니다. 격노하였지만 당연하였기에, 이탈리아 사회주의 공화국은 남방 인접국에게 전쟁을 선포합니다. 북방의 이탈리아 공화국은 개입을 결정하고 이탈리아 사회주의 공화국에게 전쟁을 선포합니다.\n§R필요:§!\n§Y￡KR_game_rule_flag_SRI_syndicalist   1936년 이탈리아 평의회§!에서 §M민족주의 연맹의 과반 차지§!
 
 BEL_POST_PROTEST:0 "£KR_game_rule_flag_BEL   2월 17일의 여파"
 RULE_OPTION_BEL_POST_PROTEST_RANDOM:0 "무작위화"
